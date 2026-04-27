@@ -68,8 +68,4 @@ Technology, Healthcare, Financial Services, Consumer Cyclical, Basic Materials, 
 Model performance varies meaningfully by sector. Energy is the most predictable sector (RMSE $1.79) while Healthcare is the hardest to predict (RMSE $6.15) — directly supporting the core research question. All sectors achieve R² above 0.997, confirming that historical OHLCV features and moving averages are strong predictors of next-day closing prices across the board.
 
 
-```
-
-## Citation
-US Stock Market Historical OHLCV Dataset. Kaggle.
-https://www.kaggle.com/datasets/asadullahcreative/us-stock-market-historical-ohlcv-dataset
+``
