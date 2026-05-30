@@ -2,6 +2,7 @@
 
 **Author:** Aparna Mohan  
 **Program:** UC Berkeley Professional Certificate in Machine Learning and AI
+
 **[View Notebook on nbviewer](https://nbviewer.org/github/iaparnamohan-png/Stock-price-prediction-capstone/blob/main/capstone_final_aparnamohan.ipynb)**
 
 ---
